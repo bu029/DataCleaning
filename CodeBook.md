@@ -8,4 +8,4 @@ The accelerometer and gyroscope two sensor signals were used for noise filters a
  
  Data set has triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration,Triaxial Angular velocity from the gyroscope,activity label,identifier of the subject who carried out the experiment,561-feature vector with time and frequency domain variables
  
- Can find the codes description using my README.md file
+ Can find the codes description using my README.md file https://github.com/bu029/DataCleaning/blob/master/README.md
